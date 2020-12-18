@@ -13,4 +13,5 @@ function dh_modify_read_more_link() {
     
 }
 add_filter( 'the_content_more_link', 'dh_modify_read_more_link' );
+?>
  
