@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Valentine's Day Hearts
+Plugin Name: Christmas-bells
 Plugin URI: http://graphicedit.com/blog/plugin/xmas-heart/
 Description: Simple plugin that makes hearts "fall from the sky".
 Version: 2.0
@@ -30,4 +30,4 @@ include( 'includes/developer.php' );
 include( 'includes/settings.php' );
 
 //holds the "heart" of the plugin (sorry!)
-include( 'includes/valentines-hearts.php' );
+include( 'includes/christmas-bells.php' );
